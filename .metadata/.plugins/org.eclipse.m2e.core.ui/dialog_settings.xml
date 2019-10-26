@@ -24,13 +24,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.microservicecloud.provider.dept.8001"/>
+			<item value="org.microservicecloud.consumer.dept.80"/>
 		</list>
 		<list key="groupId">
 			<item value="com.zzz"/>
 		</list>
 		<list key="artifactId">
-			<item value="microservicecloud-provider-dept-8001"/>
+			<item value="microservicecloud-consumer-dept-80"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -51,8 +51,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="microservicecloud-provider-dept-8001"/>
+			<item value="microservicecloud-consumer-dept-80"/>
 			<item value="microservicecloud"/>
+			<item value="microservicecloud-provider-dept-8001"/>
 			<item value="microservicecloud-api"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -73,6 +74,7 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="microservicecloud-consumer-dept-80"/>
 			<item value="microservicecloud-provider-dept-8001"/>
 			<item value="microservicecloud-api"/>
 		</list>

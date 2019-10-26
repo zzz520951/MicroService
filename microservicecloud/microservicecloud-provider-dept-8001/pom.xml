@@ -15,11 +15,12 @@
 			<version>${project.version}</version>
 		</dependency>
 		 <!-- actuator监控信息完善 -->
-		<!--<dependency>
+		 <!-- springboot主管监控信息和配置的依赖 -->
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
-		将微服务provider侧注册进eureka
+		<!-- 将微服务provider侧注册进eureka -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-eureka</artifactId>
@@ -27,7 +28,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-config</artifactId>
-		</dependency> -->
+		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
