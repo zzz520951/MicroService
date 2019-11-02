@@ -10,6 +10,8 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-eureka-7001" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-eureka-7002" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-eureka-7003" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8002" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8003" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1571547078120_2" label="Window Working Set" name="Aggregate for window 1571547078119"/>
 <mruList name="microSpringCloud2019"/>
