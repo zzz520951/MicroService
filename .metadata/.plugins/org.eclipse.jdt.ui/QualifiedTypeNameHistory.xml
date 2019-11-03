@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
-<fullyQualifiedTypeName name="lombok.Data"/>
 <fullyQualifiedTypeName name="lombok.experimental.Accessors"/>
 <fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
@@ -10,4 +9,23 @@
 <fullyQualifiedTypeName name="com.zzz.springcloud.service.DeptService"/>
 <fullyQualifiedTypeName name="com.zzz.springcloud.entities.Dept"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.discovery.EnableDiscoveryClient"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.loadbalancer.LoadBalanced"/>
+<fullyQualifiedTypeName name="com.netflix.loadbalancer.RandomRule"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.ribbon.RibbonClient"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="com.netflix.loadbalancer.IRule"/>
+<fullyQualifiedTypeName name="com.netflix.loadbalancer.RoundRobinRule"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="com.netflix.loadbalancer.AbstractLoadBalancerRule"/>
+<fullyQualifiedTypeName name="com.netflix.loadbalancer.ILoadBalancer"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.zzz.myrule.RondomRule_ZZZ"/>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="com.zzz.springcloud.service.DeptClientService"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.feign.EnableFeignClients"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
 </qualifiedTypeNameHistroy>

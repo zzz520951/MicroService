@@ -24,13 +24,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.microservicecloud.consumer.dept.80"/>
+			<item value="org.microservicecloud.consumer.dept.80.feign"/>
 		</list>
 		<list key="groupId">
 			<item value="com.zzz"/>
 		</list>
 		<list key="artifactId">
-			<item value="microservicecloud-consumer-dept-80"/>
+			<item value="microservicecloud-consumer-dept-80-feign"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -51,8 +51,14 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="microservicecloud-consumer-dept-80"/>
+			<item value="microservicecloud-consumer-dept-80-feign"/>
 			<item value="microservicecloud"/>
+			<item value="microservicecloud-provider-dept-8003"/>
+			<item value="microservicecloud-provider-dept-8002"/>
+			<item value="microservicecloud-eureka-7003"/>
+			<item value="microservicecloud-eureka-7002"/>
+			<item value="microservicecloud-eureka-7001"/>
+			<item value="microservicecloud-consumer-dept-80"/>
 			<item value="microservicecloud-provider-dept-8001"/>
 			<item value="microservicecloud-api"/>
 		</list>
@@ -74,6 +80,12 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="microservicecloud-consumer-dept-80-feign"/>
+			<item value="microservicecloud-provider-dept-8003"/>
+			<item value="microservicecloud-provider-dept-8002"/>
+			<item value="microservicecloud-eureka-7003"/>
+			<item value="microservicecloud-eureka-7002"/>
+			<item value="microservicecloud-eureka-7001"/>
 			<item value="microservicecloud-consumer-dept-80"/>
 			<item value="microservicecloud-provider-dept-8001"/>
 			<item value="microservicecloud-api"/>
